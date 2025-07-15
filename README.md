@@ -69,20 +69,17 @@ Soy Jhordan Olivares, estudiante de Ingeniería de Sistemas con interés en la t
 ![Unity](https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />](https://tuportafolio.com)
 
-
 <hr>
 
-
 <table>
-	<tbody>
-		<tr border="none">
-			<td width="50%" align="center">
-				<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Jhordan25&theme=dark&locale=es&show_icons=true&count_private=true">
-				<img alt="Racha de contribuciones" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Jhordan25&theme=dark&locale=es" />
-			</td>
-			<td width="50%" align="center">
-				<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Jhordan25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7">
-			</td>
-		</tr>
-	</tbody>
+<tbody>
+<tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Jhordan25&theme=dark&locale=es&show_icons=true&count_private=true">
+<img alt="Racha de contribuciones" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Jhordan25&theme=dark&locale=es" />
+</td>
+<td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Jhordan25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7">
+</td>
+</tr>
+</tbody>
 </table>
