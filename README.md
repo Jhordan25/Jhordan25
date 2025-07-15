@@ -1,9 +1,9 @@
 <hr>
 <p align="center">
-  <img src="https://ishan-rest.vercel.app/svg/banner/dev/HolaMundo" alt="Developer Banner" width="70%">
+<img src="https://ishan-rest.vercel.app/svg/banner/dev/HolaMundo" alt="Developer Banner" width="70%">
 </p>
 <p align="center">
-        <img src="https://readme-typing-svg.demolab.com/?lines=%C2%A1Hola,+me+llamo+Jhordan!;%C2%A1Bienvenido+a+mi+perfil+de+GitHub!;%C2%A1Un+gusto+tenerte+por+aqu%C3%AD!;%C2%BFUn+caf%C3%A9+%E2%98%95+y+una+buena+m%C3%BAsica%3F&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&color=00FF00" alt="Texto verde siuuu">
+<img src="https://readme-typing-svg.demolab.com/?lines=%C2%A1Hola,+me+llamo+Jhordan!;%C2%A1Bienvenido+a+mi+perfil+de+GitHub!;%C2%A1Un+gusto+tenerte+por+aqu%C3%AD!;%C2%BFUn+caf%C3%A9+%E2%98%95+y+una+buena+m%C3%BAsica%3F&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&color=00FF00" alt="Texto verde siuuu">
 </p>
 <hr>
 
@@ -22,7 +22,7 @@ Soy Jhordan Olivares, estudiante de Ingeniería de Sistemas con interés en la t
 <br>
 <hr>
 
-## <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif?1579216111" width="30px">&nbsp;Conectate conmigo
+## <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif?1579216111" width="30px">&nbsp;Conectate Conmigo
 
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">]()
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]()
@@ -71,15 +71,19 @@ Soy Jhordan Olivares, estudiante de Ingeniería de Sistemas con interés en la t
 
 <hr>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif?1579216111" width="40px">&nbsp;Estadisticas
+
 <table>
 <tbody>
 <tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Jhordan25&theme=dark&locale=es&show_icons=true&count_private=true">
-<img alt="Racha de contribuciones" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Jhordan25&theme=dark&locale=es" />
+<img src="https://readme-stats-fork-mauve.vercel.app/api/?username=Jhordan25&theme=dark&locale=es&show_icons=true&count_private=true" width="450" />
+<img src="https://github-readme-streak-stats-five-roan.vercel.app?user=Jhordan25&theme=dark&locale=es" width="450" alt="Racha de contribuciones" />
 </td>
 <td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Jhordan25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Jhordan25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7" width="450">
 </td>
 </tr>
 </tbody>
 </table>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jhordan25)](https://github.com/ryo-ma/github-profile-trophy)
