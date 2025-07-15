@@ -76,14 +76,22 @@ Soy Jhordan Olivares, estudiante de Ingeniería de Sistemas con interés en la t
 <table>
 <tbody>
 <tr border="none"><td width="50%" align="center">
-<img src="https://readme-stats-fork-mauve.vercel.app/api/?username=Jhordan25&theme=dark&locale=es&show_icons=true&count_private=true" width="450" />
-<img src="https://github-readme-streak-stats-five-roan.vercel.app?user=Jhordan25&theme=dark&locale=es" width="450" alt="Racha de contribuciones" />
+<img alt="stats" width="450px" src="https://github-readme-stats.vercel.app/api?username=Jhordan25&count_private=true&show_icons=true&locale=es&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"/>
+<img src="https://github-readme-streak-stats-five-roan.vercel.app?user=Jhordan25&theme=dark&locale=es&background=130F40&ring=ff9300&fire=f76a09&currStreakLabel=ff9300&sideLabels=ffffff&dates=dddddd&currStreakNum=ffffff" width="450" alt="Racha de contribuciones"/>
 </td>
 <td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Jhordan25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7" width="450">
+<img alt="most used languages" width="420px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhordan25&count_private=true&locale=es&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=14" />
 </td>
 </tr>
 </tbody>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jhordan25)](https://github.com/ryo-ma/github-profile-trophy)
+<hr>
+
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1579216111" width="30px">&nbsp;Trofeos
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jhordan25&theme=juicyfresh&locale=es&row=1&margin-w=15" alt="Trofeos"/>
+</p>
+
+<hr>
