@@ -24,7 +24,7 @@ Soy Jhordan Olivares, estudiante de Ingeniería de Sistemas con interés en la t
 
 ## <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif?1579216111" width="30px">&nbsp;Conéctate Conmigo
 
-[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://youtube.com/shorts/MmXDFj9wvL4?si=Q_-6pLf4mrFXryTT)
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jhordan-olivares-4bb459372)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jhordan_jav/#)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://youtube.com/shorts/MmXDFj9wvL4?si=Q_-6pLf4mrFXryTT) 
 [<img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white">](https://youtube.com/shorts/MmXDFj9wvL4?si=Q_-6pLf4mrFXryTT)
