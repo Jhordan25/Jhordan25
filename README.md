@@ -1,17 +1,11 @@
 <hr>
-<p align="center">
-<img src="https://ishan-rest.vercel.app/svg/banner/dev/HolaMundo" alt="Developer Banner" width="70%">
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=%C2%A1Hola,+me+llamo+Jhordan!;%C2%A1Bienvenido+a+mi+perfil+de+GitHub!;%C2%A1Un+gusto+tenerte+por+aqu%C3%AD!;%C2%BFUn+caf%C3%A9+%E2%98%95+y+una+buena+m%C3%BAsica%3F&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&color=00FF00" alt="Texto verde siuuu">
-</p>
+<p align="center"><img src="https://ishan-rest.vercel.app/svg/banner/dev/HolaMundo" alt="Developer Banner" width="70%"></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=%C2%A1Hola,+me+llamo+Jhordan!;%C2%A1Bienvenido+a+mi+perfil+de+GitHub!;%C2%A1Un+gusto+tenerte+por+aqu%C3%AD!;%C2%BFUn+caf%C3%A9+%E2%98%95+y+una+buena+m%C3%BAsica%3F&font=Fira%20Code&center=true&width=500&height=60&duration=4000&pause=1000&color=00FF00" alt="Texto verde siuuu"></p>
 <hr>
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" width="30px">&nbsp;Acerca de mí
 
-<p text-align="justify">
-Soy Jhordan Olivares, estudiante de Ingeniería de Sistemas con interés en la tecnología y el desarrollo de soluciones digitales. Actualmente sigo fortaleciendo mis habilidades técnicas en:
-</p>
+<p text-align="justify">Soy Jhordan Olivares, estudiante de Ingeniería de Sistemas con interés en la tecnología y el desarrollo de soluciones digitales. Actualmente sigo fortaleciendo mis habilidades técnicas en:</p>
 
 <img src="https://c.tenor.com/y2JXkY1pXkwAAAAd/tenor.gif" align="right" height="180" alt="GIF animado">
 
@@ -73,25 +67,19 @@ Soy Jhordan Olivares, estudiante de Ingeniería de Sistemas con interés en la t
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif?1579216111" width="40px">&nbsp;Estadisticas
 
-<table>
-<tbody>
+<table><tbody>
 <tr border="none"><td width="50%" align="center">
 <img alt="stats" width="450px" src="https://github-readme-stats.vercel.app/api?username=Jhordan25&count_private=true&show_icons=true&locale=es&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&hide_border=true"/>
-<img src="https://github-readme-streak-stats-five-roan.vercel.app?user=Jhordan25&theme=dark&locale=es&background=130F40&ring=ff9300&fire=f76a09&currStreakLabel=ff9300&sideLabels=ffffff&dates=dddddd&currStreakNum=ffffff&hide_border=true" width="450" alt="Racha de contribuciones"/>
-</td>
+<img src="https://github-readme-streak-stats-five-roan.vercel.app?user=Jhordan25&theme=dark&locale=es&background=130F40&ring=ff9300&fire=f76a09&currStreakLabel=ff9300&sideLabels=ffffff&dates=dddddd&currStreakNum=ffffff&hide_border=true" width="450" alt="Racha de contribuciones"/></td>
 <td width="50%" align="center">
 <img alt="most used languages" width="420px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhordan25&count_private=true&locale=es&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=14&hide_border=true" />
-</td>
-</tr>
-</tbody>
-</table>
+</td></tr>
+</tbody></table>
 
 <hr>
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1579216111" width="30px">&nbsp;Trofeos
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jhordan25&theme=juicyfresh&locale=es&row=1&margin-w=15" alt="Trofeos"/>
-</p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Jhordan25&theme=juicyfresh&locale=es&row=1&margin-w=15" alt="Trofeos"/></p>
 
 <hr>
